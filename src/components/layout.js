@@ -1,4 +1,5 @@
 import * as React from "react"
+import "../styles/styles.css"
 import { Link } from "gatsby"
 
 const Layout = ({ location, title, children }) => {
